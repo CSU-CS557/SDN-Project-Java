@@ -1,4 +1,4 @@
-# SDN-Project-Java
+# CS 557: SDN Project Java Option
 Student Code for the Java version of the SDN project
 
 The instructions for the SDN Routing project are available (UPDATE). You will be implementing a shortest-path algorithm for a switched ethernet using SDN Openflow via mininet and floodlight on a pre-configured virtual machine containing the necessary programs and tools. All of the files are avialable in this repository, so you will want to clone this repository to your local computer. 
